@@ -12,16 +12,16 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 [//]: # (Image References)
-[image1]: ./output/non_vehicle.png
-[image2]: ./output/vehicle.png
-[image3]: ./output/hog_vis.png
-[image4]: ./examples/windows.png
-[image5]: ./examples/final_detections_1.png
-[image6]: ./examples/final_detections_2.png
-[image7]: ./examples/final_detections_3.png
-[image8]: ./examples/final_detections_4.png
-[image9]: ./examples/final_detections_5.png
-[image10]: ./examples/final_detections_6.png
+[image1]: ./output_images/non_vehicle.png
+[image2]: ./output_images/vehicle.png
+[image3]: ./output_images/hog_vis.png
+[image4]: ./output_images/windows.png
+[image5]: ./output_images/final_detections_1.png
+[image6]: ./output_images/final_detections_2.png
+[image7]: ./output_images/final_detections_3.png
+[image8]: ./output_images/final_detections_4.png
+[image9]: ./output_images/final_detections_5.png
+[image10]: ./output_images/final_detections_6.png
 [video1]: ./project_video.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
